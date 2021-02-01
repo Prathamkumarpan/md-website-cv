@@ -53,7 +53,7 @@ nav li:hover a {
 }
 
 nav li:hover a:hover {
-	background-color: #333;
+	background-color: red;
 }
 
 html {
